@@ -1,0 +1,1 @@
+It's a simple modern looking calculator for all your basic uses and calculations. 
